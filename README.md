@@ -26,4 +26,4 @@ How are intrinsic disorder and hydrophobicity distributed across the functional 
 
 ## Notes
 This project is intended as a focused, descriptive analysis of a single protein and does not include experimental validation.
-The full report with can be accessed [here](index.html)
+The full report with can be accessed [here](https://peyton027.github.io/p53-disorder-analysis/)
